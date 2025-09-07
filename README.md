@@ -3,7 +3,7 @@ Peer-graded Assignment: Prediction Assignment Writeup
 Joel Castillo Espinosa
 2025-09-06
 
-If you want to see the Rpubs page of the aasignment you can visit: [Rpubs page](https://rpubs.com/Joelcae/practical_ml_assig8)
+If you want to see the Rpubs page of the aasignment you can visit: [Rpubs page](https://rpubs.com/Joelcae/practical_ml_assig8). Also, the html file is in the this repo.
 
 ## OVERVIEW
 
